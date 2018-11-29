@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/diegoecamacho/Downloads/EOSIO Base Project/Project/externals/binaryen/test/emscripten/third_party/websockify/Windows/noVNC Websocket Service Project/noVNC Websocket.csproj",
+  "TargetFramework": "v3.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
